@@ -128,10 +128,10 @@ export const ContactSection = () => {
                       Email
                     </div>
                     <a
-                      href="mailto:info@elitesiding.ca"
+                      href="mailto:info@sidingland.ca"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      info@elitesiding.ca
+                      info@sidingland.ca
                     </a>
                   </div>
                 </div>

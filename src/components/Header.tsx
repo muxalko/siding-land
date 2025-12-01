@@ -15,7 +15,7 @@ export const Header = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center gap-2">
             <div className="text-2xl font-bold text-primary">
-              <span className="text-accent">Elite</span> Siding
+              <span className="text-accent">Siding</span> Land
             </div>
           </div>
 

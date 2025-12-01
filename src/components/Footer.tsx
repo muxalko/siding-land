@@ -64,7 +64,7 @@ export const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-primary-foreground/60">
           <p>
-            &copy; {new Date().getFullYear()} Elite Siding. All rights reserved.
+            &copy; {new Date().getFullYear()} Siding Land. All rights reserved.
           </p>
         </div>
       </div>

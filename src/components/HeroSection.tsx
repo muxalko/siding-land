@@ -77,8 +77,7 @@ export const HeroSection = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
             <div className="text-sm font-semibold text-muted-foreground">
-              TRUSTED BY HOMEOWNERS ACROSS GREATER VANCOUVER AREA & LOWER
-              MAINLAND
+              TRUSTED BY HOMEOWNERS ACROSS GREATER VANCOUVER AREA
             </div>
           </div>
         </div>
